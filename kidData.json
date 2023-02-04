@@ -716,726 +716,336 @@
                 "Now, what happens tomorrow\nwhen the sun comes out?\nThat’s right. The Water Cycle starts over again."
                 ,
                 "Oops,!…the sun is out!\nBut don’t worry, Professor Mois Ture will return.\nAfter all, I am a part of the Water Cycle.\nEvaporation - Condensation- Precipitation - Collection"
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+               
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 22,
+            "name": "I FOUND A FROG",
             "img": "",
             "text": [
-                ""
+                "Even though I have grandchildren of my own, it seems like it was only yesterday when I returned home from school to find a frog in my bedroom."
                 ,
-                ""
+                "My mother just chuckled when I yelled out, \n“I found a frog on my bed.”\nNow, she knew that I would eventually find one but she let me discover a wonder of Nature  that many people miss.\n \nI am glad she did."
                 ,
-                ""
+                "You see, a little earlier that spring,\nwhen I was 6 years old; I saw some little,\nblack fish in a pond.\nSince I didn’t have any pets I went home and asked my\nmother if I could have one."
                 ,
-                ""
+                "After we talked about my catching some of the fish I saw, and the responsibility of having a pet, she agreed."
                 ,
-                ""
+                "She gave me a bowl,\ntold me to go catch a few, and said that while I was out she would prepare their new home. Off I went.\nThere were so many that they were easy to catch. I filled the bowl and ran home."
                 ,
-                ""
+                "When I got home, my mother had an old fish bowl filled with water sitting on the corner of my desk. She asked to see the fish, looked, and with a big smile said, “Tadpoles. – Wow! You are in for a surprise.”"
                 ,
-                ""
+                "I asked what she meant and\nshe just said that I would have to\nwait and see, but to watch my fish carefully."
                 ,
-                ""
+                "After a few weeks,\nI noticed some were changing.\n“Mom,” I yelled with excitement.\n“Come here, my fish are growing legs.”\nShe came into my room, looked, smiled, and told\nme to keep watching."
                 ,
-                ""
+                "After several more weeks,\nthere were more changes.\n“Mom,” I yelled with excitement.\n“Come here, my fish are growing front legs\nand their tail is going away.”\n \nShe came into my room, looked, smiled, and told me to keep watching."
                 ,
-                ""
+                "A week or so later when I got up,\nI was amazed. There were more changes.\nMy fish didn’t have tails, their legs were\nbigger, and they didn’t look like\nthe little black fish I had caught\nearlier in the Spring.\n \n“Mom,” I yelled with excitement.\n“Come here, my fish are really different.”\nShe came into my room, looked, smiled, and told me that a\nsurprise was very close."
                 ,
-                ""
+                "That day, when I returned home from school, is when I yelled out, “I found a frog on my bed.”"
                 ,
-                ""
+                "“Surprise,” yelled mom.\n“You watched a miracle\nright before your eyes. A fish\nchanged into a frog.\n \nNow you had better catch and take him\nand the other almost frogs back to the pond.\nI don’t need 50 more surprises\ntomorrow morning.”"
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "Off I went."
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 23,
+            "name": "A DOG ON A LOG",
             "img": "",
             "text": [
-                ""
+                "On a beach by a tree, sat my family and me.\nThen shouted a hog, “There's a Dog On A Log!!”\nA Dog On A Log? Well, how can that be?\nHe must be saving that big, frightening flea.\nNow why would a dog be saving a flea?\nEspecially in the water on the branch of a tree.\n"
                 ,
-                ""
+                "I couldn't believe what\nI saw happen next.\nEven that Dog On A Log was perplexed.\nThe flea pulled on a rope and up came a boat.\nI'll bet you can't guess\nwhat happened next.\n"
                 ,
-                ""
+                "A flea family ran from\nthe dog's little toe.\nThey got into the boat and began to row."
                 ,
-                ""
+                "Once on the shore, they ran through the sand.\nOver a cookie in\nmy left hand.\nRight to the hog, that's\nwhere they went."
                 ,
-                ""
+                "They found a new home with an unpleasant scent\nAs for the Dog, he's still riding that log."
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "As for me-Ouch-I think\nI have a flea."
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 24,
+            "name": "ARE WE THERE ET",
             "img": "",
             "text": [
-                ""
+                "Jennie and Jimmy were twins and were they excited. They had just completed Kindergarten. And because they did so well, were going to the Big Zoo in the city."
                 ,
-                ""
+                "After they got into the family car’s back seat, mom checked their seat belts and dad said, “If everyone is ready let the journey begin.” They were off and headed to the Big Zoo in the city."
                 ,
-                ""
+                "The Big Zoo in the city was a long way from home.\nIt wasn’t long before Jennie and Jimmy were bored.\nThey were so excited and just wanted to see the animals, even\nget some peanuts, popcorn, and soda. But it was taking so long."
                 ,
-                ""
+                "“Are we there yet?” asked Jimmy.\n“No” his mom replied. “It will be a little while. Why don’t you and\nJennie look out the window and count pine trees?”"
                 ,
-                ""
+                "Jimmy looked at Jennie and then tried to look out the window.\n they were too low in the seat to see anything."
                 ,
-                ""
+                "Jennie grumbled, “Dad, we can’t see out the window.\nAre we there yet?”\n“Yah, are we there yet,” Jimmy sang out."
                 ,
-                ""
+                "“We are getting close.” Mom chimed in.\n“Why don’t you both sing a song? That will help pass the time.”\n“Okay.” Jennie said. Then she leaned over to Jimmy and\nwhispered something in his ear.\nThey both smiled and giggled a little as they faced\nthe front of the car and began to sing."
                 ,
-                ""
+                "“Are we there yet…. Are we there yet….\nArewethereyet, Arewethereyet….\nAre we, we, there, there, yet….\nAre we there yet… Are we there yet……”"
                 ,
-                ""
+                "Their dad looked at their mom and said softly,\n“I don’t know about you but I am glad we’re here.”\nThen in a deep voice he sang out “Weee Haaave Ah-rived!”\nJennie and Jimmy giggled."
                 ,
-                ""
+                "Jimmy and Jennie had such a fun day.\nThey visited every animal, had fun in the petting zoo, and ate hot dogs, popcorn, and peanuts. Soon it was time to leave. Mom got their seat belts on and they were headed home."
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "“I hope they are tired and fall asleep,” dad whispered to mom.\n “Are we there yet?” Jennie giggled in a soft voice."
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 25,
+            "name": "DRAGONS",
             "img": "",
             "text": [
-                ""
+                "Chinese Dragons\n \nThe Chinese love dragons.\nThey believe that the dragon is powerful and wise and brings good luck. There are many temples built to honor the dragons in China. Chinese dragons are snake-like, wingless animals with four legs and five claws on each leg. According to stories, Chinese dragons have a magic pearl which gives them the power to fly and go into heaven. The Chinese believe that dragons control water, rainfall, hurricane, and floods. "
                 ,
-                ""
+                "Korean Dragons\n \n Korean dragons are the most kind-hearted of all the dragons. A Korean dragon is a snake-like, wingless animal with a long beard. A Korean dragon has four legs with four claws on each leg. In Korean stories, dragons are water animals, which control water and farming.                "
                 ,
-                ""
+                "Japanese Dragons\n \nJapanese dragons are large, wingless, snake-like animals with three claws on each foot. Japanese believe that dragons are water animals that control rainfall and water. According to Japanese stories, dragons were first born in Japan. Dragons are very popular in Japan and are used a lot in art, music and architecture."
                 ,
-                ""
+                "Indian Dragonns\n \nIndian dragons are wingless animals that are half-snake and halfhuman. Indian dragons are called Nagas and are said to live in an underground kingdom. In Indian stories, Nagas are found in rivers, lakes and seas and they are believed to be guardians of great treasures."
                 ,
-                ""
+                "Filipino Dragons\n \nThe Filipino Dragon is called Bakunawa, which means “moon-eater”. According to an ancient story in Philippines, Bakunawa is a snake-like dragon with whiskers, two pairs of wings, a red tongue, and a mouth as big as a lake. In the story, the Bakunawa lived in the sea and would rise out of the water into the sky and eat the moon. Thus, the Filipino dragons were believed to be the cause of eclipses. "
                 ,
-                ""
+                "Welsh Dragons\n \n The flag of Wales has a red dragon in a green and white field. The flag tells the story of the red dragon which saved Wales from the icy white dragon but died after the fight. The Welsh flag was made to honor the red dragon and remember him forever.               "
                 ,
-                ""
+                "Greek Dragons\n \nThe most famous Greek dragon was the Hydra, which was killed by the Greek hero, Hercules. The Hydra was a nine headed snake-like water dragon with poisonous breath and blood. It had the power of regeneration; it grew two new heads for each head that was cut off. In this Greek story, the dragon was killed by Hercules, who burnt its neck stumps to stop any new heads from growing.                 "
                 ,
-                ""
+                "English Dragons\n \n In most English stories, dragons were evil animals. They lived in dark caves, guarded great treasures and fought with English knights. English dragons have four powerful legs and claws, scales on its body, huge wings and a sharp tail. They have fangs, poisonous breath and breathe fire.               "
                 ,
-                ""
+                "Russian Dragons\n \nIn Russia, a dragon was believed to have three heads, which could grow back if cut off. In popular Russian stories, dragons were green, walked on two back paws, had small front paws and breathed fire. "
                 ,
-                ""
+                "Scandinavian Dragons\n \nThe most evil among all dragons is the Scandinavian dragon, Nidhogg. He is a huge, multicolored, wingless dragon who lives underground. In the Norse story, this thirty-foot, snake-like dragon keeps eating the roots of the world-tree Yggdrasil. This is dangerous for Earth because this is the tree that keeps the universe safe."
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "Bhutanese Dragons\n \nThe Druk is the “Thunder Dragon” of Bhutanese stories. This dragon is the national symbol of Bhutan. The Thunder Dragon is a giant snake-like, wingless animal with four legs and scales on its body. The flag of Bhutan has a Druk and the Bhutanese people call their country Druk Yul (Land of Druk). "
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 26,
+            "name": "THE HIKE",
             "img": "",
             "text": [
-                ""
+                "Mandy was lucky as she and her mother \nlived with her grandparents \nand she liked nothing better than to \nspend time with her grandfather. \nYou see, he was always making something \nand she enjoyed watching, \nlearning, and sometimes even helping him \nfinish whatever he was doing."
                 ,
-                ""
+                "“Grandfather, what are you building in your\nworkshop today?” Mandy asked. She giggled as\nshe said, “It looks like you’re playing with two\nlong sticks.” “Well Mandy,” he said. “I am going to\nmake two walking sticks\nwith your help, one for you,\nand one for me. Then I have a surprise.”\n“Alright!” Mandy shrieked. “Where do I start?”\nAfter some time, Mandy (with her grandfather’s\nhelp) finished the walking sticks. they were two\nof the most beautiful walking sticks\nshe had ever seen. "
                 ,
-                ""
+                "With the bark removed, they were sandedsmoothand eachhad a funny looking face carved in them.“Theseare really nice,” Mandy said. “But just what dowe do with them?” “Ah, that is the surprisegranddaughter,” he replied.  “Tomorrowmorning we are going on a hike in the woods andthese walking sticks will help make the hike easier.So now it’s time to clean up andgo to sleep so we are well rested for the hike.”"
                 ,
-                ""
+                "The next morning, Mandy did not need an\nalarm to wake her.\nShe was up, dressed, and ready to go as the\nsun rose and the day began.\nShe went to the kitchen\nand saw that her grandfather was busy packing\nsandwiches, water, snacks, and other items\ninto their backpacks. “It looks like we are going\nto be hiking for a long time,” Mandy said."
                 ,
-                ""
+                "“It will be an all day hike,” He replied.\n“I think we have everything so grab your\nwalking stick and let’s go.” “What about\nbreakfast?” Mandy asked. “Oh, did I forget to\nmention that we are going to stop and\nhave breakfast at a diner?”\nhe said with a smile. Their journey began."
                 ,
-                ""
+                "After a great breakfast and a long drive, they\narrived at the base of a mountain and the\nbeginning of the trail. “This is beautiful,” Mandy\nsaid. “Just where are we hiking?” “To the very top\nof the mountain where we will have lunch, rest,\nmaybe take a swim,\nand then hike back down,” he replied.\n“Swim!” Mandy said excitedly.\n“Is there a lake on the top of the mountain?”\n“Yes,” her Grandfather replied."
                 ,
-                ""
+                "“There is a pond surrounded by big flat rocks. It\nwas carved from the mountain during the last Ice\nAge and is filled with clear, cold water.”\n“Wow!” was all Mandy could say.\nAs they hiked up the mountain, Mandy asked\nmany, many questions. What kind of tree is that?\nHow high are we? Are there bears around here?\nAre there any other people up here? What do\nwe do if we get lost? Are there snakes? And of\ncourse: Are we there yet?"
                 ,
-                ""
+                "Her grandfather answered all her questions\nthe best he could and explained\nthat they were in a very natural area.\nNot many people, all sorts of wild life, even bears.\nHe helped her understand and respect\nthe natural beauty around them,\nparticularly the animals.\nHe taught her how to use a compass,\nand things to help them\nbe safer while they hiked."
                 ,
-                ""
+                "Like before stepping over a log put your\nwalking stick on the other side to let any\nanimal, like a snake, know you are there.\nWhistle a song or make some noise to let the\nbigger animals know you are in their area.\nIn a soft voice, her grandfather said.\n“Mandy, there are a few things\nto remember when you are hiking or\nanywhere for that matter.\nThe Earth is our mother take care of her.\nAll life is sacred; treat all life with respect.\nTake from the Earth what is needed\nand nothing more. Enjoy your journey\nbut leave no tracks.”"
                 ,
-                ""
+                "As they hiked a little farther, the forest opened\nand Mandy saw the pond surrounded by large\nflat rocks. They had arrived, and it was almost\nlike being in a different world.\nMandy picked a large rock that extended out\ninto the water for them to rest on. It had been\nwarmed by the sun and was\nthe perfect place for lunch."
                 ,
-                ""
+                "As her grandfather unpacked their food, she\nleaned over and wiggled her fingers\nin the cold water.\nImmediately several small fish came\nby and nibbled at her fingers.\nShe shrieked in surprise and then,\nrealizing the fish were just curious, placed her\nhand back into the water and watched\nas the fish darted around her fingers.\nShe laughed and played with the fish until\nshe heard her grandfather say “Time for lunch.”"
                 ,
-                ""
+                "After lunch and a resting period,\nthey took a swim. The water was deep\nand Mandy couldn’t reach the bottom no matter\nhow hard she tried. She giggled each time\na curious fish nibbled at her body and watched\na deer come down to have a drink.\nIt was a wonderful day and she was saddened\nwhen she heard her grandfather say, “Mandy, it’s\ntime to dry off and begin\nthe hike down to the car.”\nAfter making sure everything was just like\nit was when they arrived, they began\ntheir hike down the mountain. "
                 ,
-                ""
+                "After a short time Mandy asked, “grandfather,\ncan we take a different trail down\nthe mountain?” “I don’t see why not,”\nhe replied.\nAfter a short time, the trail began blending into\nthe surrounding brush and then disappeared. “I’m\nscared,” Mandy said. “I think we are lost.”\n“No, we’re not lost,” her grandfather, said. “But\nwe aren’t on a trail so we will have to continue\nhiking down the mountain\nin the direction of the car.\nJust enjoy the surroundings and being\ntogether on our first hiking adventure.”"
                 ,
-                ""
+                "As they continued down Mandy said.\n“Grandfather,\nI have a problem at school and I don’t know\nwho to talk to,” “Talk to me,” he said.\n“I’d like to but you are my grandfather\nand you may get angry because you are family\nand not, well, like a friend.”\nNow Mandy’s grandfather had to do some\nserious thinking. After all,\nshe was right that as her\ngrandfather, he may get angry or his feelings\nhurt but she needed a big person as a friend.\n“Mandy,” he said in a serious tone."
                 ,
-                ""
+                "“If I were to promise that anything\nwe talked about would stay between us,\nand that I would not get angry or talk to you as\nyour grandfather, but rather as an old friend;\nwould you talk with me?” “Is that a promise?”\nshe asked. “Yes,” he said softly.\n“And you know I have never broken a promise\nto you.” She gave him a big hug, and began\nto talk. Soon they were at the bottom\nof the mountain and packing the car."
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "Before leaving, her grandfather thought for a\nminute and said. “Granddaughter, anytime you\nneed me as your friend, and not your grandfather,\npick up your walking stick and ask to go on a hike.\nIt will be our secret code.”\n“This was the best day ever,” Mandy said. “I was\nwith my grandfather, my new best friend, and I\nhave a talking/walking stick.”"
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 27,
+            "name": "PIRATES COVE",
             "img": "",
             "text": [
-                ""
+                "Arrgh, me hearties, I has a story for ye, a\nstory of untold riches and a young lad who\nfound ‘em.\nAnd who am I, ye ask?\nWell - I be the spirit of Sand-dollar,\na pirate and buccaneer, Captain of the\nSeahorse, the finest ship to ever sail the\nseven seas."
                 ,
-                ""
+                "Ah, she was a fine vessel. Three masts and ten sails\nmade her fast, and her sleek hull let her cut through\nthe waves with ease.\nMe crew was the finest bunch of\nsailors to ever set sail on the open seas. They came\nfrom all over the world, to serve on the Seahorse,\nand share in the riches."
                 ,
-                ""
+                "I remember we just hid the treasure and I found a\nsafe place to hide me treasure map. A familiar place,\na place, where as a young lad, before the sea called\nme to service, was me home.\nAs we finished burying the treasure, we saw a storm\napproaching from the East. It was a bad one. The\nwind was a howling, rain soaked us to our very\nbones, thunder roared, and the lightening frightened\nthe bravest of me crew.\nWe were in the longboat, just about\nto board the Seahorse, when it happened."
                 ,
-                ""
+                "The bottom of the sea opened\nand the waters began draining.\nThe waters started going round and round. Slowly\nat first, and then picking up speed until we were in a\nwhirlpool.\nIt didn’t take long for the swirling\nwaters to suck the Seahorse to\nthe bottom of the sea.\nAs for us in the longboat, we watched\n her go down as we spiraled around that whirlpool\nbefore getting sucked down with her."
                 ,
-                ""
+                "Arrgh! It makes me heart\nhappy to see that lad growing like he is.\nThey call him Sandy, after me.\nYa see I’m his\nGreat-Great-Great-Grandpa.”\n“Sandy,” called his mom from the house.\n“You forgot you chores for the day.\nRemember you were going to clean\nthe attic.”"
                 ,
-                ""
+                "“Oh,” grumbled\nSandy as he slowly walked to the house.\n“I don’t mind chores, but\ncleaning the attic! There hasn’t been\nanyone up there in years.” "
                 ,
-                ""
+                "“It must be dark, dirty,\nand full of spiders\nand other creepy things.\nThere is probably even\na ghost or two living up there with\nthe spiders.” "
                 ,
-                ""
+                "“I unlocked the door to the attic,”\nhis mom said. “Be careful, it’s a little dark\nand there is a lot of stuff just lying\naround or stacked in piles.”"
                 ,
-                ""
+                "The spirit of Sand-dollar\nthought to himself as he watched Sandy.\n“Arrgh, I must have looked\nthe same on that stormy night when\nI hid me treasure map\nin that very room.\nI wonder if it will be finally found.”"
                 ,
-                ""
+                "“This isn’t so bad,” Sandy said to himself.\n“There’s a lot of neat stuff up here.\nI’ll clean as I move and organize all these\ndifferent things.”\n“Arrgh,” Sand-dollar thought to himself.\n “That lad be a hard worker.\nI’d have him on me crew if I could.\nHe’s only been up here a few hours\nand he’s almost done.”"
                 ,
-                ""
+                "“One last thing to clean and move,”\nSandy said aloud. (Even though he knew,\nno one was there to hear him).\n“I’ll just wipe down this old trunk\nand slide it over there in the corner.\nWow! This thing is heavy;\nI think I’ll have to empty it before\nI can get it to move.”"
                 ,
-                ""
+                "“Arrgh,” Sand-dollar thought to himself.\n“The lad be\ngetting close to me map.\nHe has emptied a lot of things from the trunk.”"
                 ,
-                ""
+                "“Oh, wow!” Sandy said.\n“Look at this old book.\nI’ll just open it up and …… a map!\nHere’s an old map.\nA treasure map! I don’t\nbelieve it! I’ve got to show mom.”"
                 ,
-                ""
+                "“Arrgh, the lad found me map.\nAt last, someone can find me treasure\nand be rich beyond belief.”\nSand-dollar said."
                 ,
-                ""
+                "“Where did you find it?” his dad asked.\n“It was in this old book. I couldn’t move\nthis old trunk in the attic so I started\ntaking things out when I saw the book.\nWhen I opened the book, the map fell out.”\nSandy replied.\nSandy’s mom added.\n “It’s certainly old and it’s definitely a treasure map.\n And look here, whatever it leads to is\nburied on our property.”"
                 ,
-                ""
+                "“Look at this note on the side,” his dad, said.\n“It says the finder will have untold wealth\nand be rich beyond belief.\nIt’s signed by someone named Sand-dollar.”\n“Let’s study the map. Tomorrow\nmorning we are going on a treasure hunt,”\nhis dad said.\n“Yippee!” Sandy exclaimed.\n“Arrgh, it appears me treasure is\nclose to being found.” Sand-dollar said."
                 ,
-                ""
+                "“Sandy, you take the shovel, mom can read the map,\nand I’ll use the compass,” his dad said as they\nwalked into the yard to begin their treasure hunt.\n“Arrgh, look at em go.\nThey be pretty good at following me map.\nThat’s it! 22 paces due West from the well,\nTurn to the North East and take 6 paces, then 11\npaces to the South ….. They be at me treasure.”\nSand-dollar said."
                 ,
-                ""
+                "“If we followed the map correctly,\nand there really is a treasure,\nwe are standing on top of it,” Sandy’s dad said.\n“I get to dig,”\nSandy said excitedly as he removed\n the first scoop of many from the sandy soil."
                 ,
-                ""
+                "“Arrgh, that lad be a chip-off-the-old-block.\nLook at him dig. You are almost there lad.\nDon’t give up!” Sand-dollar said.\n“I hit something,” screamed Sandy.\n“It’s a box. It’s the treasure!\nWe found the treasure! Let me get it out\nand hand it to you dad.”"
                 ,
-                ""
+                "“An old Book?” Sandy said with disappointment.\n“ I was expecting to find diamonds,\nrubies, and gold coins.\nNot an old book.”"
                 ,
-                ""
+                "“Arrgh, me lad. Don’t ye give up now.\nYe has to look into the old Book lad.”\nSand-dollar said.\nSandy said. “Mom, let me see the Book.\nFor some strange reasonI want to look thr\nit.”"
                 ,
-                ""
+                "“This is really interesting,”\nSandy said. “And look at this.\nDifferent words are circled in the first page.\nWow! There is a family tree\nand a letter written in the back.”\n“Let me see,” his mom said.\n“Oh my! Look at this.\nHere is a branch labeled ‘Sandy’\nand above it is written ‘Sand-dollar’\nwith a 1 circled.”"
                 ,
-                ""
+                "Sandy’s dad asked, “Could I see the Book?\nWhen I was a little boy, younger than you Sandy,my\nfather told me we had a pirate in the family.\nLet me have a few minutes to study this.”“After\nreading everything, here is whatI figured out.”\nSandy’s dad saidin a soft voice."
                 ,
-                ""
+                "“Sand-dollar was a pirate.\nHe was also yourGreat-Great-Great-Grandfather.\nHe left for adventures on the high seas,became a\npirate, and, well, the familyjust forgot about him.\nHe wrote his story in this Book and hid it as atreasure."
                 ,
-                ""
+                "“This Book taught him, how to hide the treasure.\nAs instructed in the book, he took all the treasure\nthe gold, silver,the jewels, and buried them.\nHe asks that whoever finds this othertreasure share\nit, do good, and do whatthe Book says.\n“Wow,” said Sandy.“Quite a story,” Sandy’s mom said."
                 ,
-                ""
+                "“There’s more,” Sandy’s dad said.\n“And Sandy – You may want to get the shovel.\nWhen I looked at the 1 with a circle around it,\nI remembered what Sandy said about\nwords being circled on the first page.\nIt is a code to another treasure.\nSand-dollar was his pirate name.\nTen letters and ten words circled on the first page.\nHere is the key to the treasure.\nStart A New Dig – Dig Out Lots\nLower And Receive\nThere’s more treasure, buried deeper in\nthe hole that we dug.”"
                 ,
-                ""
+                "“Arrgh, it does me heart good to seeme\nfamily helping me,” Sand-dollar said.\n“I am digging as fast as I can, mom.”Sandy said.\nI hit something big!” “Arrgh, that’s it lad.\n Dig outthat chest.\nCome on! You and your dad can get it out of thehole.\nCome on lad, put ye back into it. Push! That’s\nit, now pry it open.” Sand-dollar said.\n“Oh my goodness,” Sandy’s mom said indisbelief.\n“Look at that. A real treasure.”"
                 ,
-                ""
+                "“Arrgh, and now lad it’s up to ye to do the right thing.”\nSand-dollar said.\n“It’s up to you son,” his dad said. “It’s your treasure.”\nSandy simply said. “I want two things.\nThe Book, so I can learn wh\nGreat-Great-GreatGrandfatherlearned, and \ngold sand dollar to\nhelp me rememberhim. Mom should have that jeweled\nnecklace.It would look nice on her.\nDad, you need to take some of the gold and sell it\ntohelp pay some of the bills.”"
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "“I think we should give the rest to the local charity.\nThey know who the needy are,and I think it will help many\npeople for a long, long time.”\n“I think you are making a wise decision Sandy,”\nhis mom said.\n“What dad?” Sandy asked.\n“I didn’t say anything, Sandy,” his dad replied.\nSandy then said, “I thought I heard you s\nthank ye lad’.”"
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 28,
+            "name": "THE WAY OF THE WOODS",
             "img": "",
             "text": [
-                ""
+                "Many years ago, deep in the North Woods,\nlived a great bear named Paw-Paw.\n \nHe was the strongest and bravest bear alive and respected by all the forest creatures"
                 ,
-                ""
+                "One day, all the animals gathered together\nto discuss some changes in the woods.\n \nA new animal that walked on two legs and was\ncovered in strange fur was making\nits home nearby. They needed a leader\nand could think of no one better than Paw-Paw. "
                 ,
-                ""
+                "They all marched to Paw-Paws’ cave\nand asked if he would be the king of the forest\n \nPaw-Paw was thrilled and even though\nhe didn’t know what being a king was all about,\nhe gladly accepted."
                 ,
-                ""
+                "Paw-Paw then said\n“I will need some helpers and I want\nCrowly Crow and Willard Weasel\nto be my advisors.”\n \nWell, Crowly and Willard were honored,\nand both agreed to work with King Paw-Paw."
                 ,
-                ""
+                "One day, Slither, the snake visited\nKing Paw-Paw and told him of a strange animal\nhe saw close by. Paw-Paw asked,\n“Where did you see this animal?”\n \nSlither replied.\n“It lives with the strange, two- legged creature\nat the edge of our woods.” "
                 ,
-                ""
+                "Paw-Paw thought for a moment and said.\n“Willard and Crowly - go to the edge of the woods\nand see what this animal is.”\n \n Within moments,\nhis two helpers were on their way."
                 ,
-                ""
+                "Some time later, Willard and Crowly returned
+                and excitedly told King Paw-Paw\nthat there was indeed a strange animal at the\nedge of the woods.\n \nIt was small, maybe the size of Bobby Beaver,\nand it had a strange, barking voice instead\nof a yelp or a howl. All three sat for a long time\nthinking about the strange\nnewcomer that lived so close to their woods."
                 ,
-                ""
+                "Finally, King Paw-Paw said,\n“We must go and meet this animal.”\n \nAll three got up and left King Paw-Paws’ cave."
                 ,
-                ""
+                "In a short while, they were at the edge of the woods\nwatching the strange animal.\nKing Paw-Paw said,\n \n“Willard, go to the animal and ask what he is\nand why there is a rope tied around his neck.”\nWithout hesitation, Willard scampered across\nthe field and hid behind some\npiled wood close to the strange animal."
                 ,
-                ""
+                "“Psst!” said Willard.\nThe strange animal looked around.\n“Psst! I am over here behind the woodpile,”\nWillard said in a louder voice.\n \nThe strange animal stretched the rope as far\nas it would go but not being able to see\nwho was speaking said,\n“Please come out so that I can see you.\nMy master isn’t around.” "
                 ,
-                ""
+                "Willard came out slowly from behind the woodpile\nand cautiously approached the strange animal.\n“What type of an animal are you?” asked Willard.\n“I am a dog. And my name is Dillard.” He replied. "
                 ,
-                ""
+                "“And what are you?”\nhe then asked. “Me … I am Willard,\nthe Weasel representing King Paw-Paw,\nruler of the forest.”"
                 ,
-                ""
+                "“Why are you bound to that stake in the ground?”\nasked Willard. “My master keeps\nme tied so I cannot go into the woods,”\nreplied Dillard.\n \n“No animal should be tied,”\nWillard shouted. “I shall bite through\nthe rope to set you free. You can then come into\nthe woods and live with me.”"
                 ,
-                ""
+                "In one mighty bite, Willard set Dillard free.\nThen the two of them ran across the\nfield and into the woods.\nAfter Willard introduced Dillard to King Paw-Paw\nand Crowly, they all left. When they got to the\ncenter of the woods, King Paw-Paw introduced\nDillard to all the other forest creatures.\nDillard especially liked meeting Wayne Wolf\nand Carl Coyote who seemed to be his cousins."
                 ,
-                ""
+                "As the summer passed, King Paw-Paw\nfattened himself on berries and salmon,\nDillard and Willard became good friends."
                 ,
-                ""
+                "One day, Willard sniffed the air.\nOh, what a marvelous smell was being\ncarried on the breeze.\n \n“Chicken eggs … Fresh chicken eggs,”\nWillard thought to himself.\n“I must find them and have a snack.” In seconds,\nhe was off running through the woods and\nfollowing his nose to his favorite treat."
                 ,
-                ""
+                "His nose lead him to the strange creature’s\nhouse, where he had first met Dillard.\nHe looked around … All was clear."
                 ,
-                ""
+                "He followed the wonderful smell of eggs\ninto a strange cave. He looked around and\ncouldn’t believe his eyes. There were chicken eggs,\nhundreds of chicken eggs all around him. "
                 ,
-                ""
+                "As he reached for an egg,\na chicken saw him and sounded the alarm. \n \nSoon all the chickens were clucking,\nsquawking, and making a fuss. "
                 ,
-                ""
+                "Then he heard something behind him. As he turned,\nhe saw the strange creature that lived there.\n \nThe one that Dillard called master.\nThere was no escape and Willard was terrified."
                 ,
-                ""
+                "The strange creature looked at Willard and said,\n“You varmint! You are the weasel that set Dillard free.\nWhy I ought to …” But before he could finish\nWillard yelled out. “Wait! Don’t do anything to me.”\n \n“I can return Dillard to you.\nJust let me pass and Dillard will be back\nin a very short time.”"
                 ,
-                ""
+                "The strange creature stepped\naside and let Willard free."
                 ,
-                ""
+                "When Willard returned to the woods,\nhe ran to his friend. “Dillard!\nQuick follow me. I need your help.”\n \nWell, Dillard didn’t hesitate to help his friend\nand off they ran- with Willard in the lead."
                 ,
-                ""
+                "As they crossed the field, Dillard stopped.\n“What’s wrong?” asked Willard.\n“My master lives there and I am afraid\nto go any further.” Dillard replied.\n \n“Don’t worry,” said Willard. “Your master\nis not there.” Again, Dillard followed Willard\nright into the cave with all the chickens."
                 ,
-                ""
+                "In a flash, the master had a rope\naround Dillard’s neck.\n \nHe then looked at the weasel,\ntossed him an egg, and said\n“Thank you for returning my dog.”"
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "Willard left for the woods without saying a word.\nDillard remained with the farmer, making\nsure no weasel or any other varmint ever\nbothered his livestock."
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 29,
+            "name": "JIMMYS FIRST DAY OF SCHOOL",
             "img": "",
             "text": [
-                ""
+                "Jimmy had just turned 5\nand was starting school.\n \nHe was frightened.\nHe had never been to school before."
                 ,
-                ""
+                "Jimmy did not know what to expect\nand he did not want to leave home by himself."
                 ,
-                ""
+                "Jimmy's Mom told him\nnot to be afraid as she walked him to his bus stop."
                 ,
-                ""
+                "She told him he would make new friends\nand have lots of fun."
                 ,
-                ""
+                "Jimmy was being brave\nas he got on the bus and sat down."
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "He waved to his Mom\nas the bus drove away."
             ]
         },
         {
-            "id": 1,
-            "name": "MIX IT UP",
+            "id": 30,
+            "name": "BULLY BILL",
             "img": "",
             "text": [
-                ""
+                "Farmer Fred had just bought a new bull.\nHe named him Bill.\nBill was a strong and handsome bull with\ngreat horns. He was very big for his age.\nFarmer Fred got Bill, the bull loaded into\nthe trailer, and headed back home to his\nfarm. When they arrived, Farmer Fred\nsaid, “Bill, welcome to your new home.” Bill\njust snorted and tossed his head back to\nshow off his impressive horns."
                 ,
-                ""
+                "This was all new to Bill as he was raised\nin a small stall and his new home was very\ndifferent. He had a lot to explore.\nBill stood on the hill and watched all the\nbarnyard animals. He thought to himself. “I am\nthe biggest animal on Farmer Fred’s farm. No\nother animal has such great horns.”"
                 ,
-                ""
+                "Bill chuckled at the chickens as he slowly\nwalked up to them. They were so small\nand they didn’t have horns.\nAs Bill approached, the chickens clucked.\nThe lone duck, ducked, as Bill almost\nstepped on her."
                 ,
-                ""
+                "Bill lowered his head and quickly shook it from side to\nside right in front of the chickens.\n“I’m Bill, the bull and I’m bigger than you chubby\nchickens,” he said in a deep voice. “And I am the boss\nof the barnyard.”\nBill, the bull, frightened the chickens. They rapidly\nran, flipped, flopped and, flew, to the safety of their\ncozy coupe. This made Bill, the bull, laugh loudly. He\nwas having fun."
                 ,
-                ""
+                "Bill saw some plump pigs moving in the mud\nand decided to play a prank.\nAs he approached, he said loudly, “I heard Farmer\nFred say that he needed some bacon for breakfast\nand ham for dinner.” He then laughed loudly and\ntossed his head around showing off his great horns."
                 ,
-                ""
+                "This frightened many of the pigs and they\nproceeded to their pen for protection.\nThe biggest pig, named Pork Chop, walked up to\nBill and said.\n“You are a very mean bull, Bill.”\nBill snorted a reply.\n“Well, you have a big, flat nose,\na tornado tail and pink ears.\nAlso, you are dirty, and smelly”\nThen Bill lowered his head, snorted\n a great snort,\nand shook his horns at Pork Chop."
                 ,
-                ""
+                "Pork Chop was a wise old pig and knew what Bill\nwas doing.\nHe wouldn’t be bullied by any bull, even Bill.\nNow, Bill, the bullying bull, was expecting Pork\nChop to mush through the mud and proceed to\nthe pen for protection.\nBut Pork Chop just stood there looking at him.\nThen Pork Chop said in a soft voice.\n“You are a very mean bull, Bill,”\nand walked away"
                 ,
-                ""
+                "Then, Bill saw some sheep in the meadow. Bill\nbegan to walk across the big barnyard towards\nthem. When he got there, he was met by the\nRoger Ram, the leader of the flock.“I’m Roger\nRam, rejoicing at meeting my newest neighbor on\nFarmer Fred’s farm,”\nhe said in a very polite manner.\nBill ran at Roger Ram, snorting and shaking his big\nhorns and said, “I am Bill, the bull.\nI am the boss of the barnyard.”\nIn a split second, Roger Ram, rammed Bill the\nbullying bull, between his big horns."
                 ,
-                ""
+                "Bill, the bullying bull, looked at Roger Ram and\nsaid. “All that white curly hair, might give you\nlots of flair, but you ram like a ewe.”\nThen Bill backed up, started to paw at the\nground with his hefty hooves, snorted seven\nsnorts, shook his horns, lowered his now lumpy\nhead, and…………\nRoger Ram and the others retreated from the\nmeadow. Bill, the bullying bull, was proud of\nwhat he had done."
                 ,
-                ""
+                "All the barnyard animals were afraid of Bill.\nHe was either threatening them with his size\nand big horns or making fun of the way they\nlooked.\nIt was not a pleasant day on Farmer Fred’s farm.\n“I am going to call him Bully Bill,”\nsaid Henrietta Hen."
                 ,
-                ""
+                "“That’s not nice,” responded Roy Rooster. “It’s\nbeing a bully yourself.”\n“Well, we will work on something to stop his\nbullying,” replied Toby Turtle.\nRoger Ram said, “I don’t know what we can do?\nI rammed him and he called me a ewe.”"
                 ,
-                ""
+                "Dorothy Duck said, “He almost stepped on me\nwith those heavy hooves. No one is safe!”\nWith tears in her eyes, little Patty Piglet said,\n“I heard, I was going to be eaten by Farmer Fred.\nI’m scared.”\nPork Chop said in a soft and soothing tone, “Don’t\nworry my friends. By the evening feed by Farmer\nFred, Bill, the bullying bull, will become our buddy.”"
                 ,
-                ""
+                "Bill was having so much fun. He certainly was\nthe boss of the barnyard.\nHe looked around and saw a big barn, with open\ndoors, and he just had to let whoever lived there\nknow that he was boss of the barnyard.\nIt was a bright sunny day but as Bill walked into the\ndark barn, he couldn’t see anything.\nThis frightened him a little.\nHe turned the corner around the door and … BOOM\n… he was stopped in mid stride. Bill realized that he\nhad just walked into something really big. So big, it\ndidn’t move when he walked into it."
                 ,
-                ""
+                "As Bill’s eyes adjusted to the darkness in the\nbarn, he started to see what had stopped him. He\nwas looking at the chest of some big animal.\nBill was scared.\nAs he looked up, he could see the biggest bull,\nwith the biggest horns, staring down at him. A\nvoice like thunder filled the barn. “I finally get to\nmeet Bill, the boss of the barnyard.”\nNow Bill didn’t know what to do or what to say. All\nhe could do was look up at this giant and wonder\nwhat would happen next.\nThere was silence in the barn for several minutes\nas Bill just looked up in amazement. Finally, the\nbig bull said something."
                 ,
-                ""
+                "“I am Brian Bull and have lived on Farmer Fred’s\nfarm for many, many, years. In all those years,\nnever have the other animals asked me for help.\nBut today, they came to me with the story of\na big bull that was bullying them and they asked me\nto put an end to it. I agreed!”\nBill was never, ever, so frightened. Brian could toss\nhim across the barnyard, with little effort, and one\npush from his head. Brian slowly lowered his head.\nBill looked down and began to shake.\nBrian got closer and whispered into Bill’s ear.\n“What do you think I should do, Bill? I promised\nthe other animals I would put a stop to your\nbullying.” "
                 ,
-                ""
+                "“Please believe me Brian. You have!” Bill said in a\ntruly honest voice.\n“I have never been so frightened in my life\nand I know how the other animals must have\nfelt.” Bill began to sob a little.\n“I now know how it feels to be bullied and you\ndidn’t even really bully me. I have learned my\nlesson and I will go out and apologize to\nall the animals and ask them to forgive me"
                 ,
-                ""
+                "“You don’t have to,” Brian said.\n“You already have.”\nAs Bill turned around, he saw all the\nother animals standing in the doorway."
                 ,
-                ""
+                "“Here pig-pig-pig, come on\nchick-chick ….”\nThe animals heard Farmer\nFred calling them for the\nevening feed."
                 ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                ,
-                ""
-                
+                "Pork Chop walked over to\nBill and said.\n“Come on, buddy. Let’s eat.”"
             ]
         },
         {
